@@ -1,6 +1,8 @@
 # DS-DST_Project
 Malay Raj 2K19/IT/074 &amp; Kabir Koli 2K19/IT/064
 
+Discrete Structure Topic used : Sets & Combinations : Pascal's Triangle
+
 # src
 Contains the Web based interface that showcases the features of pascal's triangle and an interactive Tower of Hanoi puzzle
 
